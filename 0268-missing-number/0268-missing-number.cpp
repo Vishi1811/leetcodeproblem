@@ -13,17 +13,22 @@ public:
         //     i++;
         // }
         // return j;
-        //secnod method tc=O(n),sc=O(1);
-        int sum=0,n=nums.size();
-        sum=(n*(n+1))/2;
-        for(int i=0;i<n;i++)
+
+
+        // //secnod method tc=O(n),sc=O(1);
+        // int sum=0,n=nums.size();
+        // sum=(n*(n+1))/2;
+        // for(int i=0;i<n;i++)
+        // {
+        //     sum=sum-nums[i];
+        // }
+        // return sum;
+        int xor1=0,xor2=0;
+        for(int i=0;i<nums.size();i++)
         {
-            sum=sum-nums[i];
+            xor1=xor1^(i+1);
+            xor2=xor2^nums[i];
         }
-        return sum;
-
-        
-
-        
+        return (xor1^xor2);
     }
 };
