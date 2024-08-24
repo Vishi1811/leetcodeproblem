@@ -23,6 +23,10 @@ public:
         //     sum=sum-nums[i];
         // }
         // return sum;
+
+
+
+        /*third method ,this is slighly better of second because in the second method if n>10^5 then in computation of n*n+1 lead to 10^10 that can not store by int data type having said that tc and sc are same as second*/
         int xor1=0,xor2=0;
         for(int i=0;i<nums.size();i++)
         {
