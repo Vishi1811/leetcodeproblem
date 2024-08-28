@@ -1,9 +1,9 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
+        // ios_base::sync_with_stdio(0);
+        // cin.tie(0);
+        // cout.tie(0);
         int n=nums.size();
         int index=-1;
         for(int i=n-2;i>=0;i--)
