@@ -37,6 +37,7 @@ public:
     {
         int cnt=0;
         int right=mid+1;
+        
         for(int i=low;i<=mid;i++)
         {
             long long a=arr[i];
