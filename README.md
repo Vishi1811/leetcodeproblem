@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishi1811/leetcodeproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Vishi1811/leetcodeproblem/tree/master/0432-all-oone-data-structure) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vishi1811/leetcodeproblem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0229-majority-element-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Dynamic Programming
 |  |
