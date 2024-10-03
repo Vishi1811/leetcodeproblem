@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1646-kth-missing-positive-number) |
+| [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Vishi1811/leetcodeproblem/tree/master/0432-all-oone-data-structure) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vishi1811/leetcodeproblem/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
