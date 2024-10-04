@@ -1,6 +1,7 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
+        std::ios::sync_with_stdio(0);
         long long sum = 0;
         int n = skill.size();
         for (int i = 0; i < n; i++) {
