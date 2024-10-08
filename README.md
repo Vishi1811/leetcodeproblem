@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vishi1811/leetcodeproblem/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Vishi1811/leetcodeproblem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Vishi1811/leetcodeproblem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1013-fibonacci-number) |
 ## Array
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vishi1811/leetcodeproblem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vishi1811/leetcodeproblem/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
