@@ -1,17 +1,28 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+        // Approch-1
+        // int ans=0;
+        // for (int bitIndex=0;bitIndex<32;bitIndex++)
+        // {
+        //     int cnt=0;
+        //     for(int i=0;i<nums.size();i++)
+        //     {
+        //         if(nums[i]&(1<<bitIndex))cnt++;
+        //     }
+        //     if(cnt%3==1)ans|=(1<<bitIndex);
+        // }
+        // return ans;
+
+        //Approch:2
         
-        int ans=0;
-        for (int bitIndex=0;bitIndex<32;bitIndex++)
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        for(int i=1;i<n;i+=3)
         {
-            int cnt=0;
-            for(int i=0;i<nums.size();i++)
-            {
-                if(nums[i]&(1<<bitIndex))cnt++;
-            }
-            if(cnt%3==1)ans|=(1<<bitIndex);
+            if(nums[i]!=nums[i-1])return nums[i-1];
         }
-        return ans;
+        return nums[n-1];
+
     }
 };
