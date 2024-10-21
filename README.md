@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vishi1811/leetcodeproblem/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Vishi1811/leetcodeproblem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vishi1811/leetcodeproblem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Vishi1811/leetcodeproblem/tree/master/0670-maximum-swap) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vishi1811/leetcodeproblem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vishi1811/leetcodeproblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
@@ -339,5 +341,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
