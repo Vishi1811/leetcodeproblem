@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countPrimes(int n) {
-         if (n <= 2) return 0;
+         if (n < 2) return 0;
         vector<int>prime(n+1,1);
         prime[0] = 0;  // 0 is not prime
         prime[1] = 0;
