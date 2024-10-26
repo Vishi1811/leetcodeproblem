@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Vishi1811/leetcodeproblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vishi1811/leetcodeproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vishi1811/leetcodeproblem/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -353,22 +354,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vishi1811/leetcodeproblem/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Vishi1811/leetcodeproblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vishi1811/leetcodeproblem/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Vishi1811/leetcodeproblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vishi1811/leetcodeproblem/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vishi1811/leetcodeproblem/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Vishi1811/leetcodeproblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vishi1811/leetcodeproblem/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vishi1811/leetcodeproblem/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Vishi1811/leetcodeproblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
