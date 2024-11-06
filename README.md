@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0812-rotate-string) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Vishi1811/leetcodeproblem/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vishi1811/leetcodeproblem/tree/master/1197-parsing-a-boolean-expression) |
