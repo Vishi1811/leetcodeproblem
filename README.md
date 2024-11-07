@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/0014-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishi1811/leetcodeproblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
