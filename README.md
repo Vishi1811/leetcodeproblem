@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Vishi1811/leetcodeproblem/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishi1811/leetcodeproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vishi1811/leetcodeproblem/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vishi1811/leetcodeproblem/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishi1811/leetcodeproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Vishi1811/leetcodeproblem/tree/master/2580-circular-sentence) |
