@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishi1811/leetcodeproblem/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vishi1811/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Vishi1811/leetcodeproblem/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vishi1811/leetcodeproblem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vishi1811/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vishi1811/leetcodeproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vishi1811/leetcodeproblem/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vishi1811/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
