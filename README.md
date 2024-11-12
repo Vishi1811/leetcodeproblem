@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vishi1811/leetcodeproblem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vishi1811/leetcodeproblem/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vishi1811/leetcodeproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vishi1811/leetcodeproblem/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vishi1811/leetcodeproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
