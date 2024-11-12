@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Vishi1811/leetcodeproblem/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2032-largest-odd-number-in-string) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Vishi1811/leetcodeproblem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2716-prime-subtraction-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
