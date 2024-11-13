@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vishi1811/leetcodeproblem/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vishi1811/leetcodeproblem/tree/master/1197-parsing-a-boolean-expression) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Vishi1811/leetcodeproblem/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Vishi1811/leetcodeproblem/tree/master/0859-design-circular-deque) |
