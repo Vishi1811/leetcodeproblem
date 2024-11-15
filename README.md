@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishi1811/leetcodeproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0908-middle-of-the-linked-list) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishi1811/leetcodeproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishi1811/leetcodeproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vishi1811/leetcodeproblem/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishi1811/leetcodeproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vishi1811/leetcodeproblem/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Vishi1811/leetcodeproblem/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
