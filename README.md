@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishi1811/leetcodeproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vishi1811/leetcodeproblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Vishi1811/leetcodeproblem/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Vishi1811/leetcodeproblem/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
