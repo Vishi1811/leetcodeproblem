@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishi1811/leetcodeproblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/Vishi1811/leetcodeproblem/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vishi1811/leetcodeproblem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vishi1811/leetcodeproblem/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/Vishi1811/leetcodeproblem/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishi1811/leetcodeproblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vishi1811/leetcodeproblem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Vishi1811/leetcodeproblem/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/2047-find-a-peak-element-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Vishi1811/leetcodeproblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
