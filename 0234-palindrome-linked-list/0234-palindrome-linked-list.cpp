@@ -47,7 +47,9 @@ public:
         return true;
         time complexity:O(n),space complexity:O(n)*/
         
-        //<--------Optimum solution------------->
+        /*<--------Optimum solution------------->
+         time complexity:O(n),space complexity:O(n)*/ 
+         
         ListNode *temp=head;
         ListNode *slow=head,*fast=head;
         while(fast->next && fast->next->next)
