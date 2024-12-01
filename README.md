@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishi1811/leetcodeproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vishi1811/leetcodeproblem/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Vishi1811/leetcodeproblem/tree/master/1972-rotating-the-box) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vishi1811/leetcodeproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vishi1811/leetcodeproblem/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vishi1811/leetcodeproblem/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Vishi1811/leetcodeproblem/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vishi1811/leetcodeproblem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishi1811/leetcodeproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vishi1811/leetcodeproblem/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vishi1811/leetcodeproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Vishi1811/leetcodeproblem/tree/master/2554-minimum-total-distance-traveled) |
