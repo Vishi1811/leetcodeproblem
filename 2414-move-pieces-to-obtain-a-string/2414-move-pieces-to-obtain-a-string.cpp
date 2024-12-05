@@ -1,6 +1,6 @@
 class Solution {
 public:
-     vector<pair<int, int>> fun(string s) {
+     vector<pair<int, int>> move(string s) {
         vector<pair<int, int>> res;
         for (int i = 0; i < s.size(); ++i) {
             if (s[i] == 'L')
@@ -11,8 +11,8 @@ public:
         return res;
     }
     bool canChange(string start, string target) {
-        auto a = fun(start);
-        auto b = fun(target);
+        auto a = move(start);
+        auto b = move(target);
         if (a.size() != b.size()) return false;
         for (int i = 0; i < a.size(); ++i) {
             auto x = a[i], y = b[i];
