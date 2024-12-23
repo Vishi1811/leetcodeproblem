@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vishi1811/leetcodeproblem/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/Vishi1811/leetcodeproblem/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0731-my-calendar-ii) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vishi1811/leetcodeproblem/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/Vishi1811/leetcodeproblem/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/2868-continuous-subarrays) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vishi1811/leetcodeproblem/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Vishi1811/leetcodeproblem/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
