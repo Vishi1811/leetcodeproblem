@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vishi1811/leetcodeproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0731-my-calendar-ii) |
+| [0735-asteroid-collision](https://github.com/Vishi1811/leetcodeproblem/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Vishi1811/leetcodeproblem/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Vishi1811/leetcodeproblem/tree/master/0792-binary-search) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Vishi1811/leetcodeproblem/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishi1811/leetcodeproblem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vishi1811/leetcodeproblem/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Vishi1811/leetcodeproblem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vishi1811/leetcodeproblem/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Vishi1811/leetcodeproblem/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vishi1811/leetcodeproblem/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
