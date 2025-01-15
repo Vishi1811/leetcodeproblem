@@ -25,6 +25,5 @@ public:
             maxArea=max(maxArea,((n-pse-1)*heights[h]));
         }
         return maxArea;
-        
     }
 };
