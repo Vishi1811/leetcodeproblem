@@ -9,13 +9,13 @@ public:
         while(r<n)
         {
             if(nums[r]==0)zc++;
-            while(zc>k)
+            if(zc>k)
             {
                 if(nums[l]==0)zc--;
                 l++;
             }
-                maxl=max(maxl,(r-l+1));
-                r++;
+            else maxl=max(maxl,(r-l+1));
+            r++;
         }
         return maxl;
     }
