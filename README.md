@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishi1811/leetcodeproblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishi1811/leetcodeproblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vishi1811/leetcodeproblem/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishi1811/leetcodeproblem/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishi1811/leetcodeproblem/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishi1811/leetcodeproblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Vishi1811/leetcodeproblem/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishi1811/leetcodeproblem/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vishi1811/leetcodeproblem/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vishi1811/leetcodeproblem/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vishi1811/leetcodeproblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Vishi1811/leetcodeproblem/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vishi1811/leetcodeproblem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishi1811/leetcodeproblem/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vishi1811/leetcodeproblem/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Vishi1811/leetcodeproblem/tree/master/2868-continuous-subarrays) |
