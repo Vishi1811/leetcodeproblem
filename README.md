@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Vishi1811/leetcodeproblem/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Vishi1811/leetcodeproblem/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Vishi1811/leetcodeproblem/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/Vishi1811/leetcodeproblem/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vishi1811/leetcodeproblem/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Vishi1811/leetcodeproblem/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vishi1811/leetcodeproblem/tree/master/0943-sum-of-subarray-minimums) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vishi1811/leetcodeproblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Vishi1811/leetcodeproblem/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vishi1811/leetcodeproblem/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/Vishi1811/leetcodeproblem/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishi1811/leetcodeproblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Vishi1811/leetcodeproblem/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vishi1811/leetcodeproblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
