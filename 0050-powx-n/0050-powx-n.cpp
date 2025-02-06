@@ -1,25 +1,18 @@
 class Solution {
 public:
+    double helper(double x,long long n)
+    {
+        if(n==0)return 1;
+        if(n%2==1)return x*helper(x,n-1);
+        return helper(x*x,n/2);
+        
+    }
     double myPow(double x, int n) {
-        bool sign=0;
-        double ans=1;
-        if(n<0)
-        {
-            sign=1;
-            ans*=x;
-            n=-(n+1);
+        long long N = n;  // Convert to long long to prevent overflow
+        if (n < 0) {
+            return 1.0 / helper(x, -N);
         }
-       
-        while(n>0)
-        {
-            if(n%2){
-                ans=ans*x;
-                n=n-1;
-            }
-            n=n/2;
-            x=x*x;
-        }
-        return sign==1? 1/ans:ans;
+        return helper(x, N);
         
     }
 };
