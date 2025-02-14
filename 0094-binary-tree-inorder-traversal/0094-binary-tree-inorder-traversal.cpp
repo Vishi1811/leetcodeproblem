@@ -25,7 +25,7 @@ void inOrder(TreeNode * root,vector<int>&ans)
         // return ans;
 
         //Using Iterative
-        if(root==NULL)return ans;
+        // if(root==NULL)return ans;
         stack<TreeNode*>st;
         TreeNode *n=root;
         while(true)
