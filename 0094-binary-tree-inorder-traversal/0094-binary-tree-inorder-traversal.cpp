@@ -38,7 +38,7 @@ void inOrder(TreeNode * root,vector<int>&ans)
             }
             else 
             {
-                if(st.empty())break;
+                if(st.empty())return ans;
                 n=st.top();
                 st.pop();
                 ans.push_back(n->val);
