@@ -21,7 +21,21 @@ public:
 }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int>pre;
-        preOrder(root,pre);
+        // using recursion
+        // preOrder(root,pre);
+        // return pre;
+        if (!root) return pre;
+        stack<TreeNode *>st;
+        st.push(root);
+        while(!st.empty())
+        {
+            TreeNode *n=st.top();
+            st.pop();
+            pre.push_back(n->val);
+            if(n->right)st.push(n->right);
+            if(n->left)st.push(n->left);
+            
+        }
         return pre;
     }
 };
