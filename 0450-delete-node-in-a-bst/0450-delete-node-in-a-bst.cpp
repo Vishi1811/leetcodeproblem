@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-public:
+    private:
     TreeNode* findLastRight(TreeNode*root)
     {
         if(root->right==NULL)return root;
@@ -25,6 +25,7 @@ public:
         lastRight->right=rightChild;
         return root->left;
     }
+    public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         
         if(root==NULL)return NULL;
