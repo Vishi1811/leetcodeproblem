@@ -1,17 +1,22 @@
 class Solution {
+private:
+    int reverse(int n)
+    {
+        int rev=0;
+        while(n>0)
+        {
+            if(rev>INT_MAX/10)return 0;
+            rev=rev*10+n%10;
+            n=n/10;
+        }
+        return rev;
+    }
 public:
     bool isPalindrome(int x) {
-        int rev=0;
-        int num=x;
-        while(num>0)
-        {
-            if ((rev>INT_MAX/10)||(rev<INT_MIN/10))return false;
-        
-            rev=rev*10+num%10;
-            num=num/10;
-        }
-        if(rev==x)return true;
+        if(x<0)return false;
+        int n=reverse(x);
+        if(n==x)return true;
         return false;
-    }
         
+    }
 };
