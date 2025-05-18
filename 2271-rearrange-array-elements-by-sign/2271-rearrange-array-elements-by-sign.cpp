@@ -1,25 +1,30 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
-        cout.tie(0);
         int n=nums.size();
-        vector<int>ans(n,0);
-        int pi=0,ni=1;
+        vector<int>pos;
+        vector<int>neg;
         for(int i=0;i<n;i++)
         {
-            if(nums[i]<0)
+            if(nums[i]>=0)pos.push_back(nums[i]);
+            else neg.push_back(nums[i]);
+        }
+        int i=0,p=0,ng=0;
+        while(i<n)
+        {
+            if(i%2==0)
             {
-                ans[ni]=nums[i];
-                ni+=2;
+                nums[i]=pos[p];
+                i++;
+                p++;
             }
-            else
-            {
-                ans[pi]=nums[i];
-                pi+=2;
+            else{
+                nums[i]=neg[ng];
+                ng++;
+                i++;
             }
         }
-        return ans; 
+        return nums;
+        
     }
 };
