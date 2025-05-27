@@ -11,7 +11,6 @@ public:
             while( i<n-1 && end>=intervals[i+1][0] )
             {
                 i++;
-                // start=min(start,intervals[i][0]);
                 end=max(end,intervals[i][1]);
             }
             ans.push_back({start,end});
