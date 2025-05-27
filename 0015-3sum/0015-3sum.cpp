@@ -14,21 +14,15 @@ public:
             {
                 sum+=nums[j];
                 sum+=nums[k];
-                if(sum<0)
-                {
-                    // sum-=nums[j];
-                    j++;
-                }
-                else if(sum>0){
-                    // sum-=nums[k];
-                    k--;
-                }
+                if(sum<0) j++;
+                else if(sum>0) k--;
+
                 else
                 {
                     ans.push_back({nums[i],nums[j],nums[k]});
                     j++;
                     k--;
-                    while(nums[j]==nums[j-1] & j<k)j++;
+                    while(nums[j]==nums[j-1] && j<k)j++;
                     while(nums[k]==nums[k+1] && j<k)k--;
                     
                 }
