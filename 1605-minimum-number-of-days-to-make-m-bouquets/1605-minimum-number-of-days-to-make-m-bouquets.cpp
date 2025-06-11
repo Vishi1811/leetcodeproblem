@@ -1,52 +1,52 @@
 class Solution {
-public:
-    vector<int> min_max(vector<int>&arr,int n)
+    private:
+    int findMin(vector<int>&arr)
     {
-      
-        int mini=INT_MAX;
-        int maxi=INT_MIN;
-        for(int i=0;i<n;i++)
+        int ans=INT_MAX;
+        for(auto it:arr)
         {
-            mini=min(mini,arr[i]);
-            maxi=max(maxi,arr[i]);
+            ans=min(ans,it);
         }
-        return {mini,maxi};
+        return ans;
     }
-    int noOfbouquet(vector<int>&arr,int day,int k,int n)
+    int findMax(vector<int>&arr)
+    {
+        int ans=INT_MIN;
+        for(auto it:arr)
+        {
+            ans=max(ans,it);
+        }
+        return ans;
+    }
+    int totalBoquests(vector<int>&bloomDay,int  day,int k)
+    
     {
         int cnt=0;
-        int totalbloom=0;
-        for(int i=0;i<n;i++)
+        int ans=0;
+        for(int i=0;i<bloomDay.size();i++)
         {
-            if(arr[i]<=day) cnt++;
-            else{
-                totalbloom+=(cnt/k);
+            if(bloomDay[i]<=day)cnt++;
+            else
+            {
+                ans+=cnt/k;
                 cnt=0;
             }
         }
-        totalbloom +=(cnt/k);
-        return totalbloom;
+        ans+=cnt/k;
+        return ans;
     }
+public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
-        long long val = m * 1ll * k * 1ll;
-        if(val>n)return -1;
-        vector<int>a=min_max(bloomDay,n);
-        int low =a[0];
-        int high=a[1];
-        
+        if(n/k<m)return -1;
+        int low=findMin(bloomDay);
+        int high=findMax(bloomDay);
         while(low<=high)
         {
-            int mid=low+(high-low)/2;
-           
-            if(noOfbouquet(bloomDay,mid,k,n)>=m)
-            {
-                high=mid-1;
-            
-            }
-                else low=mid+1;
+            int mid=(high+low)/2;
+            if(totalBoquests(bloomDay,mid,k)>=m)high=mid-1;
+            else low=mid+1;
         }
-        
         return low;
     }
 };
