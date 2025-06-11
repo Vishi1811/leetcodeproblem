@@ -1,46 +1,40 @@
 class Solution {
-public:
-    int findMax(vector<int>&arr,int n)
+    private:
+    int totalSum(vector<int>arr)
     {
-        int maxi=INT_MIN;
-        for(int i=0;i<n;i++)
+        int ans=0;
+        for(auto it:arr)
         {
-            maxi=max(maxi,arr[i]);
+            ans+=it;
         }
-        return maxi;
+        return ans;
     }
-    int arraySum(vector<int>&arr,int n)
+   
+    int totalDays(vector<int>&arr,int w)
     {
+        int days=0;
         int sum=0;
-        for(int i=0;i<n;i++)
+        for(int i=0;i<arr.size();i++)
         {
-            sum+=arr[i];
-        }
-        return sum;
-    }
-    int requiredDay(vector<int>&arr,int n,int capacity)
-    {
-        int days=1,load=0;
-        for(int i=0;i<n;i++)
-        {
-            if(load+arr[i]>capacity)
+            if(sum+arr[i]<=w)sum+=arr[i];
+            else
             {
-                load=arr[i];
                 days++;
+                sum=arr[i];
             }
-            else load+=arr[i];
+            
         }
-        return days;
-    }
+        return days+1;
 
+    }
+public:
     int shipWithinDays(vector<int>& weights, int days) {
-            int n=weights.size();
-        int low=findMax(weights, n);
-        int high=arraySum(weights, n);
+        int low=*max_element(weights.begin(), weights.end());
+        int high=totalSum(weights);
         while(low<=high)
         {
-            int mid=low+(high-low)/2;
-            if(requiredDay(weights,n,mid)<=days)high=mid-1;
+            int mid=(low+high)/2;
+            if(totalDays(weights,mid)<= days)high=mid-1;
             else low=mid+1;
         }
         return low;
