@@ -1,21 +1,20 @@
 class Solution {
 private:
-    int reverse(int n)
+    int revers(int x)
     {
-        int rev=0;
-        while(n>0)
+        int n=0;
+        while(x!=0)
         {
-            if(rev>INT_MAX/10)return 0;
-            rev=rev*10+n%10;
-            n=n/10;
+            if(n>INT_MAX/10 || n<INT_MIN) return 0;
+            n=n*10+x%10;
+            x=x/10;
         }
-        return rev;
+        return n;
     }
 public:
     bool isPalindrome(int x) {
         if(x<0)return false;
-        int n=reverse(x);
-        if(n==x)return true;
+        if(revers(x)==x)return true;
         return false;
         
     }
